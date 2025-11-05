@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "OSDz87xaHSR+h6d/3yXRUk9KuHoxVf4TRFBcWlXjeLE=",
+  "Hash": "WDSspCt6Z787i8ba3IdnvcnCs5nHoKGgUhjY4GrhTDY=",
   "Source": "Movie_Seat_Booking",
   "BasePath": "_content/Movie_Seat_Booking",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Movie_Seat_Booking\\wwwroot",
       "Source": "Movie_Seat_Booking",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Movie_Seat_Booking.styles.css",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Movie_Seat_Booking.styles.css",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "Movie_Seat_Booking.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Movie_Seat_Booking.styles.css"
+      "OriginalItemSpec": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Movie_Seat_Booking.styles.css"
     },
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "Movie_Seat_Booking.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css"
+      "OriginalItemSpec": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css"
     },
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\app.css",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\app.css",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\favicon.png",
+      "Identity": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\favicon.png",
       "SourceId": "Movie_Seat_Booking",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\",
+      "ContentRoot": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\",
       "BasePath": "_content/Movie_Seat_Booking",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

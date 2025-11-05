@@ -1,0 +1,49 @@
+﻿@page "/booking"
+
+<PageTitle>Seat Booking</PageTitle>
+
+<div class="booking-container">
+    <div class="screen-desc">
+        SCREEN
+    </div>
+
+    <div class="seat-grid">
+        @for (int r = 1; r <= Rows; r++)
+        {
+            <div class="seat-row" style="@GetGridTemplate()">
+                <span class="row-number">@r</span>
+
+                @for (int c = 1; c <= Cols; c++)
+                {
+                    if (c == Stairs && Stairs != 0)
+                    {
+                        <span class="stair"></span>
+                    }
+                    else
+                    {
+                        int seatNum = c;
+                        if (seatNum > Stairs && Stairs != 0)
+                        {
+                            seatNum -= 1;
+                        }
+                        <span class="seat" title=@($"Row: {r}, Seat: {seatNum}")>@seatNum</span>
+                    }
+                }
+
+                <span class="row-number">@r</span>
+            </div>
+        }
+    </div>
+</div>
+
+@code {
+    public int Rows = 12;
+    public int Cols = 10;
+    public int Stairs = 0;
+
+    private string GetGridTemplate()
+    {
+        int totalCols = Cols + 2;
+        return $"grid-template-columns: repeat({totalCols}, 45px);";
+    }
+}

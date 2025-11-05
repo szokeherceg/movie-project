@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\Movie_Seat_Booking.csproj",
+      "projectUniqueName": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\Movie_Seat_Booking.csproj",
       "projectName": "Movie_Seat_Booking",
-      "projectPath": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\Movie_Seat_Booking.csproj",
+      "projectPath": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\Movie_Seat_Booking.csproj",
       "packagesPath": "C:\\Users\\vasas\\.nuget\\packages\\",
-      "outputPath": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\",
+      "outputPath": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

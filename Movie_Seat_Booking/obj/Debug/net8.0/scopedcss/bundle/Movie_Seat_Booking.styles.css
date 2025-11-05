@@ -201,3 +201,76 @@ main[b-n51xiuujy5] {
         overflow-y: auto;
     }
 }
+/* _content/Movie_Seat_Booking/Components/Pages/SeatBooking.razor.rz.scp.css */
+.booking-container[b-0y5fb211v7] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.screen-desc[b-0y5fb211v7] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    color: #fff;
+    height: 50px;
+    width: 50%;
+    padding: 0 40px;
+    margin: 30px auto 20px;
+    border-radius: 8px;
+    font-size: 18px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.seat-grid[b-0y5fb211v7] {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.seat-row[b-0y5fb211v7] {
+    display: grid;
+    gap: 10px;
+    align-items: center;
+}
+
+.seat[b-0y5fb211v7] {
+    background-color: #4caf50;
+    color: white;
+    text-align: center;
+    border-radius: 6px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+    transition: background-color 0.3s, transform 0.1s;
+    cursor: pointer;
+}
+
+    .seat:hover[b-0y5fb211v7] {
+        background-color: #45a049;
+        transform: scale(1.05);
+    }
+
+
+.stair[b-0y5fb211v7] {
+    background-color: transparent;
+    width: 45px;
+    height: 40px;
+}
+
+.row-number[b-0y5fb211v7] {
+    background-color: #555;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    height: 40px;
+    line-height: 40px;
+    font-weight: bold;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
