@@ -1,0 +1,32 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working folder
+.vs/
+
+# Backup and cache files
+*.dbmdl
+*.bak
+*.log
+*.tlog
+
+# Others
+*.tmp
+*.temp
+*.cache
+*.pdb
+
+# Rider / VS Code folders
+.idea/
+.vscode/
+
+# ASP.NET / Blazor specific
+wwwroot/lib/
+node_modules/

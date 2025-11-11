@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css",
+      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Movie_Seat_Booking.bundle.scp.css",
       "PackagePath": "staticwebassets\\Movie_Seat_Booking.bundle.scp.css"
     },
     {
-      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\app.css",
+      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\Movie_Seat_Booking\\wwwroot\\favicon.png",
+      "Id": "C:\\SZE GIVK\\net programozás\\Movie_Seat_Booking\\movie-project\\Movie_Seat_Booking\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
