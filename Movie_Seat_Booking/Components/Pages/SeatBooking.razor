@@ -1,4 +1,5 @@
-﻿@page "/booking"
+﻿@rendermode InteractiveServer
+@page "/booking"
 
 <PageTitle>Seat Booking</PageTitle>
 
@@ -26,7 +27,14 @@
                         {
                             seatNum -= 1;
                         }
-                        <span class="seat" title=@($"Row: {r}, Seat: {seatNum}")>@seatNum</span>
+
+                        string seatId = $"{r}-{seatNum}";
+                        bool isSelected = SelectedSeats.Contains(seatId);
+
+                        <button class="seat @(isSelected ? "selected" : "")"
+                                @onclick="() => ToggleSeat(seatId)">
+                            @seatNum
+                        </button>
                     }
                 }
 
@@ -34,6 +42,7 @@
             </div>
         }
     </div>
+
 </div>
 
 @code {
@@ -41,9 +50,21 @@
     public int Cols = 10;
     public int Stairs = 0;
 
+    private HashSet<string> SelectedSeats = new();
+
     private string GetGridTemplate()
     {
         int totalCols = Cols + 2;
         return $"grid-template-columns: repeat({totalCols}, 45px);";
+    }
+
+    private void ToggleSeat(string seatId)
+    {
+        if (SelectedSeats.Contains(seatId))
+            SelectedSeats.Remove(seatId);
+        else
+            SelectedSeats.Add(seatId);
+
+        StateHasChanged();
     }
 }

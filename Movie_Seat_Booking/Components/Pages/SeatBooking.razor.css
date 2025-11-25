@@ -41,11 +41,12 @@
     text-align: center;
     border-radius: 6px;
     height: 40px;
-    line-height: 40px;
+    width: 40px;
     font-weight: bold;
     box-shadow: 0 2px 4px rgba(0,0,0,0.2);
     transition: background-color 0.3s, transform 0.1s;
     cursor: pointer;
+    border: none;
 }
 
     .seat:hover {
@@ -53,6 +54,10 @@
         transform: scale(1.05);
     }
 
+    .seat.selected {
+        background-color: orange;
+        color: white;
+    }
 
 .stair {
     background-color: transparent;
